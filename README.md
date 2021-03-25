@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Francois16
+- 👋 Hi, I’m Francois
 - 👀 I’m interested in finance, financial programming and web development
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on financial projects or django projects
