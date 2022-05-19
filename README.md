@@ -2,4 +2,4 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on django projects
-- 📫 How to reach me 
+- 📫 How to reach me Fpaul1274@gmail.com
