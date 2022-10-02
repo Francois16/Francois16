@@ -5,7 +5,7 @@
 ![Windicss](https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white)
 
 <img align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=Francois16&show_icons=true" />
-<img align="left" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francois16&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats" />
+<img align="left" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francois16&layout=compact&hide=html" />
 
 
 
