@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Francois
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Django and Vue.js
-- 💞️ I’m looking to collaborate on django projects
-- 📫 How to reach me Fpaul1274@gmail.com
+# Welcome to my Github! :wave:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Francois16&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francois16&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
