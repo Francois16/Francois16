@@ -22,7 +22,9 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 
-<img align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=Francois16&show_icons=true" />
-<img align="left" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francois16&layout=compact&hide=html" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Francois16&show_icons=true" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francois16&layout=compact&hide=html" />
 
-# What can I do for you?
+<h3>My Favorite Projects</h3>
+
+1. <a href="https://github.com/Francois16/sorting-visualizer" >Sorting Visualizer</a>
