@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/francoispaulsen/"> 
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" >
 </a>
-<a href="#" >
+<a href="https://francois-paulsen.netlify.app/" >
   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
 </a>
 
@@ -27,4 +27,4 @@
 
 <h3>My Favorite Projects</h3>
 
-1. <a href="https://github.com/Francois16/sorting-visualizer" >Sorting Visualizer</a>
+1. <a href="https://github.com/Francois16/sorting-visualizer" >Sorting Visualizer</a> <span>(Data Structures & Algorithms)</span>
